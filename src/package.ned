@@ -1,0 +1,3 @@
+package bittorrentsim;
+
+@license(LGPL);
