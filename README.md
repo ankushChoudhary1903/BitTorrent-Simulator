@@ -21,7 +21,3 @@ This project simulates the core behavior of the **BitTorrent protocol** using th
 - **Topology Configuration**: `.ned` files
 - **Simulation Config**: `.ini` file with runtime settings
 
----
-
-## 📁 Folder Structure
-
