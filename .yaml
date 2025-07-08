@@ -1,0 +1,34 @@
+
+---
+
+## ⚙️ How to Run
+
+1. Install **OMNeT++ 6.x**
+2. Open OMNeT++ IDE and import this project
+3. Build the project from `src/`
+4. Open `omnetpp.ini` under `simulations/` and run simulations via Qtenv or Cmdenv
+
+---
+
+## 📊 Sample Results (100-peer Network)
+
+| Metric               | BitTorrent | Plain P2P |
+|----------------------|------------|-----------|
+| Completion Time      | 18 mins    | 41 mins   |
+| Network Utilization  | 92%        | 68%       |
+| Seed Bandwidth Used  | 1.2 Gbps   | 3.4 Gbps  |
+
+---
+
+## 📃 Project Report
+
+Detailed simulation results and architecture are available in `Project_Report.pdf`.
+
+---
+
+## 👨‍💻 Author
+
+**Ankush Choudhary**  
+`ankushChoudhary1903` on GitHub  
+> Originally created for academic simulation and analysis of P2P file-sharing systems.
+

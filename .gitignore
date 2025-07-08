@@ -1,0 +1,20 @@
+# Build files and binaries
+*.o
+*.exe
+*.dbg
+*.so
+*.a
+
+# Simulation logs/results
+*.sca
+*.vec
+*.log
+*.out
+
+# IDE-specific or temporary
+.settings/
+out/
+results/
+build/
+cmake-*
+*.bak
